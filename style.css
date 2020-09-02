@@ -1,0 +1,32 @@
+.logo-text{
+    color : white;
+    font-weight: bold;
+    text-decoration :none; 
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left :30px
+    
+}
+ 
+.videos-div{
+    width:100%
+    
+}
+.videos{ 
+    height: 550px;
+    float : left
+}
+
+
+.description{
+ float: left;
+ width :30%;
+  
+}
+.title{
+    margin-top:50px
+    
+}
+
+body{
+    margin: 0px
+}
