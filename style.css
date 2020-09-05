@@ -52,8 +52,8 @@
     color: #e9ecef;
 }
 .register{
-    background: -webkit-linear-gradient(left, #ecd3db, #d8eeb5);
-    margin-top: 3%;
+    background: -webkit-linear-gradient(left, #ecd3db, #c7c9c4);
+    margin-top: 2%;
     padding: 3%;
     border-radius: 2.5rem;
 }
@@ -63,7 +63,7 @@
     border-radius: 1rem;
     padding: 1.5%;
     color: #fff;
-    background-color: #03612e;
+    background-color: tomato;
     border: none;
     cursor: pointer;
     margin-right: 6%;
